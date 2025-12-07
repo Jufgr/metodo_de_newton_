@@ -28,8 +28,8 @@ Este tem três etapas principais
 1. Cálculo da derivada
 2. Implementação do método de newton
 3. Resolução de desafios específicos ( 2**x = x**2 e tang x = 1/x)
-
-
+4. Método iterativo 
+5. 
 
 
 
